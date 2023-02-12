@@ -5,6 +5,11 @@
 
 ![App Screenshot](https://raw.githubusercontent.com/gnimeth/biodiversity_exploration/main/Outputs/newplot.png)
 
+## Demo
+
+[Click Here](https://gnimeth.github.io/biodiversity_exploration/) to view interactive dashboard
+
+
 ## Roadmap
 
 - Use the D3 library to read in samples.json from the [URL](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json) 
