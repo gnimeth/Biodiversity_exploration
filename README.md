@@ -7,7 +7,7 @@
 
 ## Demo
 
-[Click Here](https://gnimeth.github.io/biodiversity_exploration/) to view interactive dashboard
+[Click Here](https://gnimeth.github.io/Biodiversity_exploration/) to view interactive dashboard
 
 
 ## Roadmap
